@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.9597207
+  lightness: 0.6407089
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#0C0C0C'
+    - '#909090'
+    - '#004886'
+    - '#6F6F6F'
+  rhythmicContrast: 1
+typography_spectrum: 0.1143931
+name: LoveBike
